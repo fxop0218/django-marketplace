@@ -20,3 +20,7 @@ Create superuser
 ```
 python manage.py createsuperuser
 ```
+
+```
+pip install pillow
+```
