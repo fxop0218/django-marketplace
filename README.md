@@ -1,5 +1,7 @@
 Comands utiliced
 
+### Not finished
+
 '''
 django-admin startproject puddle
 python manage.py startapp core
