@@ -1,6 +1,6 @@
 Comands utiliced
 
-### Not finished
+### Not finished SPD
 
 '''
 django-admin startproject puddle
